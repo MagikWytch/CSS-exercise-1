@@ -23,3 +23,15 @@ h1 {
 p {
     background-color: red;
 }
+div > p {
+    background-color: green;
+}
+div ~ p {
+    background-color: yellow;
+}
+div + p {
+    background-color: pink;
+}
+.list a {
+    text-decoration: none;
+}
