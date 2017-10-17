@@ -5,3 +5,9 @@
 .awesome {
     font-size: 40px;
 }
+a[href^="https"]{
+    color: green;
+}
+a[href$="html"]{
+    color: orange;
+}
