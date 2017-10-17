@@ -1,7 +1,6 @@
 #cool {
     font-size: 25px;
 }
-
 .awesome {
     font-size: 40px;
 }
@@ -10,4 +9,7 @@ a[href^="https"]{
 }
 a[href$="html"]{
     color: orange;
+}
+h1 {
+    background-color: grey;
 }
